@@ -3,5 +3,3 @@ this is something in readme.txt
 
 this is change in master branch
 (this is change in zjDev branch)
-
-this is change in zj branch
